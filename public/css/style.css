@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-weight: 100;
+    font-family: 'Lato';
+}
+
+.container {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 96px;
+}
